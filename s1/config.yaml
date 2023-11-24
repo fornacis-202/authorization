@@ -1,0 +1,18 @@
+
+mqtt:
+  queue: "auth-queue"
+  uri: 
+
+encKey: 
+
+mysql:
+    dbName: "cchw1sky_db"
+    user: 
+    passwd: 
+    addr: "remote-asiatech.runflare.com:30563"
+s3:
+  accessKey: 
+  secretKey: 
+  region: "default"
+  bucket: "chw1"
+  endpoint: "s3.ir-thr-at1.arvanstorage.ir"
